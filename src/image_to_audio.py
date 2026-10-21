@@ -29,7 +29,4 @@ def generate_wav_file(img_path, output_path="test.wav", duracao_seg=6.0, samplin
     audio_16bit = (y * 32767).astype(np.int16)
     write(output_path, sampling_rate, audio_16bit)
 
-    print(f"[+] Arquivo {output_path} gerado com sucesso!")
-
-if __name__ == "__main__":
-    generate_wav_file("sua_imagem.png")
+    print(f"Arquivo {output_path} gerado com sucesso!")

@@ -17,6 +17,9 @@ O script faz a síntese aditiva de frequências senoidais com base nos pixels da
 
 ---
 
+<img width="1920" height="1070" alt="image" src="https://github.com/user-attachments/assets/da613223-d17f-4e75-848b-d63e4ca80eeb" />
+
+
 ## Pré-requisitos
 
 - Python 3.8+

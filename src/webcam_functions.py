@@ -15,4 +15,4 @@ def capture_image():
         cv2.imwrite(image_filename, frame)
 
     cam.release()
-    return 
+    return image_filename

@@ -17,8 +17,7 @@ O script faz a síntese aditiva de frequências senoidais com base nos pixels da
 
 ---
 
-<img width="1920" height="1070" alt="image" src="https://github.com/user-attachments/assets/da613223-d17f-4e75-848b-d63e4ca80eeb" />
-
+<img width="425" height="524" alt="image" src="https://github.com/user-attachments/assets/1c7ec11d-89ff-4eaa-8551-62db408e5b90" />
 
 ## Pré-requisitos
 

@@ -1,7 +1,17 @@
 import webcam_functions, normalize_image_function, image_to_audio
 
 def show_banner():
-    print("Imagem para Espectograma - IMESEC")
+    print("\033[32m" + """
+    ██╗███╗   ███╗███████╗███████╗███████╗ ██████╗
+    ██║████╗ ████║██╔════╝██╔════╝██╔════╝██╔════╝
+    ██║██╔████╔██║█████╗  ███████╗█████╗  ██║     
+    ██║██║╚██╔╝██║██╔══╝  ╚════██║██╔══╝  ██║     
+    ██║██║ ╚═╝ ██║███████╗███████║███████╗╚██████╗
+    ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝\n
+    Imagem para Espectograma - IMESEC                                   
+    \033[0m""")
+    print("Pressione ENTER para tirar a foto")
+    input()
 
 show_banner()
 

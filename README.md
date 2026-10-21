@@ -1,4 +1,4 @@
-# img2spec
+# image-to-spectrogram
 
 CLI em Python que converte imagens em arquivos de áudio `.wav` onde a imagem original é revelada ao abrir o áudio em um analisador de espectro (como Audacity ou Sonic Visualiser).
 

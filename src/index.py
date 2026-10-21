@@ -1,5 +1,3 @@
-from cv2 import *
-
 def show_banner():
     print("Imagem para Espectograma - IMESEC")
 
